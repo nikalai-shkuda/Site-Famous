@@ -1,0 +1,353 @@
+
+@media (min-width: 320px) and (max-width: 579px) {
+
+.menu{
+  display:none;
+}
+
+.menu-media{
+  display:block;
+}
+
+.menu-media .menu-content .logo
+{   margin-top: 15px;
+    height: 60px;
+    width: 180px; 
+      float: left;  
+     position: relative;  
+      left: -20px;
+
+}
+.menu-media .menu-content .logo a
+{
+    height: 60px;
+    width: 180px;
+}
+
+.start-page, .start-page .effect,.start-page .content {
+  height:100%;
+}
+.start-page .content .text .logo
+{   
+    height: 100px;
+    margin: 20px auto 30px;
+}
+
+.start-page .content .text h1 {
+  font-size:18px;
+}
+.start-page .content .text p{
+line-height: 20px;
+}
+
+.about h1 {
+  margin-top:0;
+}
+
+.about hr,.party .party-margin hr, .contact hr {
+  width:100px;
+}
+
+.about .column-one, .about .column-two{
+  margin-bottom:20px;
+}
+
+ .about .content .column-three{
+  margin-bottom:70px;
+ }
+
+.party .party-margin, .about .content .column-three,.about .column-one, .about .column-two,.start-page .content,.contact, .contact .content, .contact .content .form,.about .content,.start-page .content .text .logo,.start-page .content .text {
+  width:300px;
+}
+
+.photo{
+  height:660px;
+}
+.photo .container{
+  display: none;
+}
+.photo .slider {
+ display: block !important;
+}
+
+.contact .content .contact-text{
+  padding-left:0px;
+  width:300px;
+  text-align:center;
+  margin-top:60px;
+}
+
+input,textarea{
+  width:260px;
+}
+
+
+
+
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .col-1, .contact .content .form .col-3,.contact .content .form .col-2{
+  width:320px;
+}
+
+.contact .content .form .col-2{
+  padding-left:0;
+}
+
+.grid li{
+  margin:0 0 15px 0;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.footer{
+  position:relative;
+
+}
+.footer .logo{
+  position: relative;
+  top:8px;
+}
+
+.start-page .content .arrow-down{
+  display: none;
+}
+.welcome{
+display: none !important;
+}
+div.mobile-button {
+display: block;
+
+}
+iframe{
+  display: none;
+}
+
+.footer .logo a{cursor: pointer;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 580px) and (max-width: 767px) {
+
+.menu{
+  display:none;
+}
+
+.menu-media{
+  display:block;
+}
+
+.menu-media .menu-content{
+  width:540px;
+}
+
+.photo .logo img {
+  padding-bottom:20px;
+}
+
+.start-page, .start-page .effect,.start-page .content{
+  height:100%;
+}
+.start-page .content .text,.start-page .content .text .logo,
+.start-page .content {
+  width:400px;
+}
+
+.start-page .content .text .logo
+{   
+    height: 133px;
+    margin: 0 auto 30px;
+}
+
+.start-page .content .text h1 {
+  font-size:25px;
+}
+.start-page .content .text p{
+line-height: 30px;
+}
+.about h1 {
+  margin-top:0;
+}
+
+.about hr,.party .party-margin hr, .contact hr {
+  width:100px;
+}
+
+.about .column-one, .about .column-two, .about .column-three,.party .party-margin,.about .content{
+  width:300px;
+  margin-bottom:20px;
+}
+
+ .about .column-three{
+  margin-bottom:70px;
+ }
+.photo{
+  height:660px;
+}
+.photo .container{
+  display: none;
+}
+.photo .slider{
+ display: block;
+}
+.photo .content{
+  width:400px;
+}
+
+
+.contact, .contact .content, .contact .content .form{
+  width:300px;
+}
+
+.contact .content .contact-text{
+  padding-left:0px;
+  width:300px;
+  text-align:center;
+  margin-top:60px;
+}
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .col-1,.contact .content .form .col-2, .contact .content .form .col-3{
+  width:420px;
+}
+
+.contact .content .form .col-2{
+  padding-left:0;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.footer{
+  position:relative;
+}
+.footer .logo{
+  position: relative;
+  top:8px;
+}
+
+input,textarea{
+  width:268px;
+}
+
+
+.start-page .content .arrow-down{
+  display: none;
+}
+.welcome{
+ display: none !important;
+}
+div.mobile-button {
+display: block;
+}
+iframe{
+  display: none;
+}
+
+.footer .logo a{
+  cursor: pointer;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+.menu-media{
+  display:none;
+}
+
+
+  section.menu .menu-content .logo{
+  width:183px;
+}
+
+  section.menu .menu-content,.about .content{
+  width:700px;
+}
+
+.about p{
+  width:200px;
+}
+
+.about h2{
+  letter-spacing:2px;
+}
+
+.about .column-one,.about .column-two,
+.about .column-three{
+  width:233px;
+}
+
+
+.party .party-margin {
+  width:600px;
+}
+
+
+.photo .logo ,.contact .content,.photo .content{
+  width:700px;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.footer{
+  position:relative;
+}
+.footer .logo{
+  position: relative;
+  top:8px;
+}
+
+.contact .content .form{
+  width:355px;
+}
+
+input,textarea{
+  width:320px;
+}
+
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .col-1,.contact .content .form .col-2,.contact .content .form .col-3{
+  width:450px;
+}
+
+.contact .content .form .col-2{
+  padding-left:0;
+}
+
+}
